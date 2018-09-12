@@ -1,0 +1,10 @@
+com/parcial/sistemas/distribuidos/model/Cliente.class
+com/parcial/sistemas/distribuidos/model/Factura.class
+com/parcial/sistemas/distribuidos/model/TipoProducto.class
+com/parcial/sistemas/distribuidos/repositorios/FacturaRepositorio.class
+com/parcial/sistemas/distribuidos/model/Producto.class
+com/parcial/sistemas/distribuidos/repositorios/ProductoRepositorio.class
+com/parcial/sistemas/distribuidos/controladores/ServiciosControlador.class
+com/parcial/sistemas/distribuidos/Application.class
+com/parcial/sistemas/distribuidos/repositorios/TipoProductoRepositorio.class
+com/parcial/sistemas/distribuidos/repositorios/ClienteRepositorio.class

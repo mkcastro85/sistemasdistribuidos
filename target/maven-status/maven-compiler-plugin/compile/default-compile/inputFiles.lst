@@ -1,0 +1,10 @@
+/home/rcarrascal/Documentos/proyectos/sistemas-distribuidos/src/main/java/com/parcial/sistemas/distribuidos/model/TipoProducto.java
+/home/rcarrascal/Documentos/proyectos/sistemas-distribuidos/src/main/java/com/parcial/sistemas/distribuidos/Application.java
+/home/rcarrascal/Documentos/proyectos/sistemas-distribuidos/src/main/java/com/parcial/sistemas/distribuidos/repositorios/TipoProductoRepositorio.java
+/home/rcarrascal/Documentos/proyectos/sistemas-distribuidos/src/main/java/com/parcial/sistemas/distribuidos/repositorios/ClienteRepositorio.java
+/home/rcarrascal/Documentos/proyectos/sistemas-distribuidos/src/main/java/com/parcial/sistemas/distribuidos/controladores/ServiciosControlador.java
+/home/rcarrascal/Documentos/proyectos/sistemas-distribuidos/src/main/java/com/parcial/sistemas/distribuidos/repositorios/FacturaRepositorio.java
+/home/rcarrascal/Documentos/proyectos/sistemas-distribuidos/src/main/java/com/parcial/sistemas/distribuidos/model/Cliente.java
+/home/rcarrascal/Documentos/proyectos/sistemas-distribuidos/src/main/java/com/parcial/sistemas/distribuidos/model/Producto.java
+/home/rcarrascal/Documentos/proyectos/sistemas-distribuidos/src/main/java/com/parcial/sistemas/distribuidos/model/Factura.java
+/home/rcarrascal/Documentos/proyectos/sistemas-distribuidos/src/main/java/com/parcial/sistemas/distribuidos/repositorios/ProductoRepositorio.java
